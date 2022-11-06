@@ -1,2 +1,2 @@
 # DailyDSA
-These are my daily day to day coding practice
+### These are my daily day to day coding practice
