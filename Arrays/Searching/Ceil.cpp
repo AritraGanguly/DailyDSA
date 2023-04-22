@@ -10,7 +10,7 @@ int ceilSearch(int arr[], int low, int high, int x)
     if (x == 0)
     {
         return -1;
-    }
+    }               
     int mid;
 
     // this while loop function will run until condition not
